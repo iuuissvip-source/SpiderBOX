@@ -125,6 +125,34 @@
     term: 哔哩哔哩
   - links:
     - author: 进击的HACK
+      release_time: 2026.04.22 18:41:28
+      title: 基于云函数的HTTP代理工具，可隐藏自身IP
+      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489993&idx=1&sn=4f41ebfd135f8bf4a62fb9a07fba65a9
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.22 16:35:52
+      title: 银行因网络安全/数据安全问题被“双罚”，科技部人员负有责任
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520034&idx=1&sn=5c010fa1c737b12158388f0f9794358e
+    - author: 个人信息与数据保护实务评论
+      release_time: 2026.04.22 16:35:52
+      title: 香港医院数据泄露：56,000名患者受到影响
+      url: https://mp.weixin.qq.com/s?__biz=MzI1ODY3NDk2Nw==&mid=2247520034&idx=2&sn=ae75e71d4718474a83a8aaf24c71911b
+    - author: 软件安全与逆向分析
+      release_time: 2026.04.22 13:24:14
+      title: 电子书分享：安卓系统AOSP技术内幕
+      url: https://mp.weixin.qq.com/s?__biz=MzU3MTY5MzQxMA==&mid=2247485122&idx=1&sn=3877e38965a4620b9ed729743d979bd1
+    - author: 哆啦安全
+      release_time: 2026.04.22 12:15:39
+      title: Android | iOS | HarmonyOS 移动设备取证系统V2.8
+      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500169&idx=1&sn=1eb42642b99b3243eac5b7dee3ae973c
+    - author: 菜鸟学Python编程
+      release_time: 2026.04.22 09:00:00
+      title: AI技能|手把手教你轻松配置国产龙虾
+      url: https://mp.weixin.qq.com/s?__biz=MzAwNTY1OTg0MQ==&mid=2647566493&idx=1&sn=f7c1fdcf3a62f4d8ed8f086d20f787cc
+    - author: Coder小Q
+      release_time: 2026.04.22 08:30:00
+      title: 【量子计算】多量子比特门：从“不能制造纠缠”到 CNOT 打开 Bell 态
+      url: https://mp.weixin.qq.com/s?__biz=MzUwOTc3MTQyNg==&mid=2247495330&idx=1&sn=cf095285974ab7a26d895a7b28cf5caf
+    - author: 进击的HACK
       release_time: 2026.04.21 18:12:12
       title: AI代码审计 | 通过补丁信息分析漏洞生成Poc
       url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489988&idx=1&sn=784ffc2494e597bf2cc21dc5d03feedd
@@ -216,41 +244,25 @@
       release_time: 2026.04.18 21:43:14
       title: 【vmp2】从 a + b 读懂栈式facelessjsvmp
       url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484375&idx=1&sn=60309ce0622911f9c9226d33d4332302
-    - author: 哆啦安全
-      release_time: 2026.04.18 17:05:37
-      title: Python逆向分析工具V3.0
-      url: https://mp.weixin.qq.com/s?__biz=Mzg2NzUzNzk1Mw==&mid=2247500153&idx=1&sn=5aa1b32c927ab23e9b2143ca4f9418e0
-    - author: 零基础爬虫第一天
-      release_time: 2026.04.18 14:29:03
-      title: 【vmp1】仿rs生成if/else混淆（case版）
-      url: https://mp.weixin.qq.com/s?__biz=Mzg4OTgxOTI3Mg==&mid=2247484366&idx=1&sn=1705da2a189ae60c5434acd44d624d72
-    - author: 反爬破解社
-      release_time: 2026.04.18 10:45:06
-      title: 指纹识别篇：从浏览器指纹到设备指纹，你的爬虫如何"隐身"？
-      url: https://mp.weixin.qq.com/s?__biz=MzU2NTI5MTU5OA==&mid=2247483859&idx=1&sn=76c30e886458513d86ed21fccaa65d2b
-    - author: 进击的HACK
-      release_time: 2026.04.17 18:16:01
-      title: 快速了解一个mcp
-      url: https://mp.weixin.qq.com/s?__biz=MzkxNjMwNDUxNg==&mid=2247489978&idx=1&sn=c03f2624b60cbc04fcbf51f1426a2e32
-    - author: 逆向搅屎棍
-      release_time: 2026.04.17 14:48:31
-      title: Minion-Bot 小弟机器人提示词
-      url: https://mp.weixin.qq.com/s?__biz=MzYzNDQzNDIyNg==&mid=2247483676&idx=1&sn=887a823f1fcf79cd76b55bea6af95d48
-    - author: 泡泡以安
-      release_time: 2026.04.17 11:44:14
-      title: Unidbg学习笔记（七）：JNI 层补环境
-      url: https://mp.weixin.qq.com/s?__biz=Mzk0MjQxNTI5MA==&mid=2247486041&idx=1&sn=60d445380f0346e047fee2fb5ce80d3d
-    - author: SpiderDemo
-      release_time: 2026.04.17 08:50:00
-      title: unidbg 实战：狐友APP sig 签名逆向全记录
-      url: https://mp.weixin.qq.com/s?__biz=MzkwMzg4NDI4Mw==&mid=2247484653&idx=1&sn=c3160cdfb9ee956da6b1895b7dde04ea
     logo: images/logo/mpweixin_32x32.png
     term: 公众号
   - links:
+    - author: 罗婷
+      release_time: 2026.04.22 02:55:00
+      title: AndroidManifest魔改分析向-记一次对魔改样本的分析和经验分享
+      url: https://www.52pojie.cn/thread-2104220-1-1.html
+    - author: n1ng
+      release_time: 2026.04.21 22:11:00
+      title: 从0到1构建一个Hook工具之PLT Hook篇（四）
+      url: https://www.52pojie.cn/thread-2104206-1-1.html
     - author: anke1
       release_time: 2026.04.21 21:31:00
       title: 两步路户外助手会员分析和新百度加固去除
       url: https://www.52pojie.cn/thread-2104201-1-1.html
+    - author: '13955925361'
+      release_time: 2026.04.21 19:01:00
+      title: 京东搜索接口商品数据获取及h5st参数解析
+      url: https://www.52pojie.cn/thread-2104180-1-1.html
     - author: '13955925361'
       release_time: 2026.04.21 00:05:00
       title: 新版小红书首页笔记获取及X-s参数解密
@@ -355,21 +367,13 @@
       release_time: 2026.03.31 17:27:00
       title: 猿人学第三题逆向分析
       url: https://www.52pojie.cn/thread-2100547-1-1.html
-    - author: yanmf
-      release_time: 2026.03.30 22:43:00
-      title: 某店的逆向
-      url: https://www.52pojie.cn/thread-2100377-1-1.html
-    - author: jie1525050
-      release_time: 2026.03.30 20:30:00
-      title: 某卡Flutter请求响应加密分析
-      url: https://www.52pojie.cn/thread-2100363-1-1.html
-    - author: misakibb
-      release_time: 2026.03.30 09:35:00
-      title: 主题Monokai Pro序列号算法分析
-      url: https://www.52pojie.cn/thread-2100203-1-1.html
     logo: images/logo/52pojie_32x32.png
     term: 吾爱破解
   - links:
+    - author: sh4w
+      release_time: 2026.04.22 15:14:48
+      title: '[原创]某宝 x-sign 模拟执行'
+      url: https://bbs.kanxue.com/thread-290932.htm
     - author: n_1ng
       release_time: 2026.04.21 22:10:49
       title: '[原创]从0到1构建一个Hook工具之PLT Hook篇（四）'
@@ -378,6 +382,10 @@
       release_time: 2026.04.21 13:19:47
       title: '[原创]反爬战略和MCP对抗思路'
       url: https://bbs.kanxue.com/thread-290910.htm
+    - author: 悦来客栈的老板
+      release_time: 2026.04.21 09:25:24
+      title: AI逆向|使用AI解决jsvmp的几种方式
+      url: https://blog.csdn.net/qq523176585/article/details/160386797
     - author: Jmn314
       release_time: 2026.04.20 21:46:04
       title: '[原创]基于图书管理系统的漏洞复现与代码审计'
@@ -482,14 +490,6 @@
       release_time: 2026.04.11 13:09:28
       title: 支持多账号自动登录的微信多开软件
       url: https://blog.csdn.net/Qwertyuiop2016/article/details/160052878
-    - author: 冰履踏青云
-      release_time: 2026.04.11 11:39:57
-      title: 一次携程酒店 phantom-token 逆向实战复盘(附python纯算)
-      url: https://bingyun.blog.csdn.net/article/details/159981676
-    - author: 冰履踏青云
-      release_time: 2026.04.11 11:25:07
-      title: JS逆向之虎牙 Web 登录 appSign和password加密
-      url: https://bingyun.blog.csdn.net/article/details/159994394
     logo: images/logo/kanxue_32x32.png
     term: 看雪论坛/先知社区/CSDN等
   taxonomy: 最新文章/视频
